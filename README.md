@@ -1,5 +1,6 @@
 <h1>Hi 👋, I'm Yashodha</h1>
 <p>I'm a passionate Full-Stack Developer and AR/VR enthusiast who loves building intuitive web applications and immersive digital experiences. Always exploring new technologies and eager to push the boundaries of what's possible.</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yash200237&label=Profile%20views&color=0e75b6&style=flat" alt="Yash200237" /> </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
